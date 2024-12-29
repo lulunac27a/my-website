@@ -1,9 +1,9 @@
 * {
-  font-family: system-ui, sans-serif;
+  font-family: system-ui, sans-serif; /*set default font to system font or sans-serif*/
 }
 iframe {
-  width: 90vw;
-  height: 100vh;
-  margin: 0;
-  padding: 0;
+  width: 90vw; /*set width of iframe to 90%*/
+  height: 100vh; /*set height of iframe to 100%*/
+  margin: 0; /*set margin to 0*/
+  padding: 0; /*set padding to 0*/
 }

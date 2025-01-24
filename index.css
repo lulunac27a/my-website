@@ -6,4 +6,5 @@ iframe {
   height: 100vh; /*set height of iframe to 100%*/
   margin: 0; /*set margin to 0*/
   padding: 0; /*set padding to 0*/
+  border: none; /*no borders on iframe*/
 }

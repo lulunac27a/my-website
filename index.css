@@ -8,3 +8,8 @@ iframe {
   padding: 0; /*set padding to 0*/
   border: none; /*no borders on iframe*/
 }
+
+h1,
+h2 {
+  color: #404040; /*set heading color to dark gray*/
+}
